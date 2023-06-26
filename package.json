@@ -1,0 +1,12 @@
+{
+    "name": "@dhanushreddy2513/my-package",
+    "version": "0.1.0",
+    "description": "npm package test",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ]
+}
